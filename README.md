@@ -1,5 +1,5 @@
-# violet-syntax theme
+# Violet Syntax for Atom Editor
 
-A short description of your theme.
+Is a syntax higlightning theme for Atom Editor.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Violet Screenshot](VioletThemeScreenshot.png)
