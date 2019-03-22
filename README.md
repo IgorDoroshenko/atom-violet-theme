@@ -1,4 +1,4 @@
-![Violet Logo](logo.png)
+<img src="logo.png" width="200"/>
 
 # Violet Syntax for Atom Editor
 
