@@ -2,7 +2,7 @@
   "name": "violet-syntax",
   "theme": "syntax",
   "version": "0.2.0",
-  "description": "Is a syntax higlightning theme for Atom Editor.",
+  "description": "Is a syntax highlighting theme for Atom Editor.",
   "keywords": [
     "syntax",
     "theme"
