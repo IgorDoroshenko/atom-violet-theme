@@ -4,4 +4,4 @@
 
 Is a syntax higlightning theme for Atom Editor.
 
-![Violet Screenshot](VioletThemeScreenshot.png)
+![Violet Screenshot](https://raw.githubusercontent.com/IgorDoroshenko/atom-violet-ui/master/VioletUIScreenshot.jpg)
